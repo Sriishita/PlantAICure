@@ -122,6 +122,9 @@ Prediction on New Images
 
 ## 📊 Dataset
 
+The preprocessed dataset used for the project is available here:
+https://drive.google.com/drive/folders/1qYvAW4KHHZp8WUtvjT4gfmbI0eOrxbiu?usp=sharing
+
 The project uses a **preprocessed plant disease image dataset** containing images belonging to different plant disease categories.
 
 The images are used to train the CNN model to recognize visual differences between healthy and diseased plants and between different disease types.
